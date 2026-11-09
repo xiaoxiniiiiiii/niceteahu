@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1",
+    "name": "Pearl Drop Earrings",
+    "category": "Earrings",
+    "price": 12,
+    "active": true
+  },
+  {
+    "id": "2",
+    "name": "Sculpted Hoop Earrings",
+    "category": "Earrings",
+    "price": 15,
+    "active": true
+  },
+  {
+    "id": "3",
+    "name": "Petite Stud Earrings",
+    "category": "Earrings",
+    "price": 18,
+    "active": true
+  },
+  {
+    "id": "4",
+    "name": "Twist Hoop Earrings",
+    "category": "Earrings",
+    "price": 21,
+    "active": true
+  },
+  {
+    "id": "5",
+    "name": "Daisy Stud Earrings",
+    "category": "Earrings",
+    "price": 24,
+    "active": true
+  },
+  {
+    "id": "6",
+    "name": "Oval Drop Earrings",
+    "category": "Earrings",
+    "price": 27,
+    "active": true
+  },
+  {
+    "id": "7",
+    "name": "Classic Huggie Earrings",
+    "category": "Earrings",
+    "price": 30,
+    "active": true
+  },
+  {
+    "id": "8",
+    "name": "Teardrop Earrings",
+    "category": "Earrings",
+    "price": 33,
+    "active": true
+  },
+  {
+    "id": "9",
+    "name": "Beaded Hoop Earrings",
+    "category": "Earrings",
+    "price": 36,
+    "active": true
+  },
+  {
+    "id": "10",
+    "name": "Star Stud Earrings",
+    "category": "Earrings",
+    "price": 39,
+    "active": true
+  },
+  {
+    "id": "11",
+    "name": "Pearl Pendant Necklace",
+    "category": "Necklaces",
+    "price": 12,
+    "active": true
+  },
+  {
+    "id": "12",
+    "name": "Fine Chain Necklace",
+    "category": "Necklaces",
+    "price": 15,
+    "active": true
+  },
+  {
+    "id": "13",
+    "name": "Oval Pendant Necklace",
+    "category": "Necklaces",
+    "price": 18,
+    "active": true
+  },
+  {
+    "id": "14",
+    "name": "Beaded Layer Necklace",
+    "category": "Necklaces",
+    "price": 21,
+    "active": true
+  },
+  {
+    "id": "15",
+    "name": "Daisy Charm Necklace",
+    "category": "Necklaces",
+    "price": 24,
+    "active": true
+  },
+  {
+    "id": "16",
+    "name": "Petite Heart Necklace",
+    "category": "Necklaces",
+    "price": 27,
+    "active": true
+  },
+  {
+    "id": "17",
+    "name": "Twist Chain Necklace",
+    "category": "Necklaces",
+    "price": 30,
+    "active": true
+  },
+  {
+    "id": "18",
+    "name": "Coin Pendant Necklace",
+    "category": "Necklaces",
+    "price": 33,
+    "active": true
+  },
+  {
+    "id": "19",
+    "name": "Star Pendant Necklace",
+    "category": "Necklaces",
+    "price": 36,
+    "active": true
+  },
+  {
+    "id": "20",
+    "name": "Layered Chain Necklace",
+    "category": "Necklaces",
+    "price": 39,
+    "active": true
+  },
+  {
+    "id": "21",
+    "name": "Pearl Bead Bracelet",
+    "category": "Bracelets",
+    "price": 12,
+    "active": true
+  },
+  {
+    "id": "22",
+    "name": "Fine Chain Bracelet",
+    "category": "Bracelets",
+    "price": 15,
+    "active": true
+  },
+  {
+    "id": "23",
+    "name": "Twist Cuff Bracelet",
+    "category": "Bracelets",
+    "price": 18,
+    "active": true
+  },
+  {
+    "id": "24",
+    "name": "Daisy Charm Bracelet",
+    "category": "Bracelets",
+    "price": 21,
+    "active": true
+  },
+  {
+    "id": "25",
+    "name": "Oval Link Bracelet",
+    "category": "Bracelets",
+    "price": 24,
+    "active": true
+  },
+  {
+    "id": "26",
+    "name": "Beaded Bracelet",
+    "category": "Bracelets",
+    "price": 27,
+    "active": true
+  },
+  {
+    "id": "27",
+    "name": "Petite Heart Bracelet",
+    "category": "Bracelets",
+    "price": 30,
+    "active": true
+  },
+  {
+    "id": "28",
+    "name": "Classic Bangle",
+    "category": "Bracelets",
+    "price": 33,
+    "active": true
+  },
+  {
+    "id": "29",
+    "name": "Star Charm Bracelet",
+    "category": "Bracelets",
+    "price": 36,
+    "active": true
+  },
+  {
+    "id": "30",
+    "name": "Layered Chain Bracelet",
+    "category": "Bracelets",
+    "price": 39,
+    "active": true
+  },
+  {
+    "id": "31",
+    "name": "Sculpted Band Ring",
+    "category": "Rings",
+    "price": 12,
+    "active": true
+  },
+  {
+    "id": "32",
+    "name": "Petite Pearl Ring",
+    "category": "Rings",
+    "price": 15,
+    "active": true
+  },
+  {
+    "id": "33",
+    "name": "Twist Band Ring",
+    "category": "Rings",
+    "price": 18,
+    "active": true
+  },
+  {
+    "id": "34",
+    "name": "Daisy Ring",
+    "category": "Rings",
+    "price": 21,
+    "active": true
+  },
+  {
+    "id": "35",
+    "name": "Oval Detail Ring",
+    "category": "Rings",
+    "price": 24,
+    "active": true
+  },
+  {
+    "id": "36",
+    "name": "Stacking Band Ring",
+    "category": "Rings",
+    "price": 27,
+    "active": true
+  },
+  {
+    "id": "37",
+    "name": "Open Cuff Ring",
+    "category": "Rings",
+    "price": 30,
+    "active": true
+  },
+  {
+    "id": "38",
+    "name": "Heart Detail Ring",
+    "category": "Rings",
+    "price": 33,
+    "active": true
+  },
+  {
+    "id": "39",
+    "name": "Beaded Band Ring",
+    "category": "Rings",
+    "price": 36,
+    "active": true
+  },
+  {
+    "id": "40",
+    "name": "Classic Slim Ring",
+    "category": "Rings",
+    "price": 39,
+    "active": true
+  }
+]
